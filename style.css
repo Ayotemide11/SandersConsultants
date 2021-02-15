@@ -3127,7 +3127,7 @@ input[type=range]::-ms-fill-upper {
   border: none;
 }
 .full-width-header.header-style2 .toolbar-area .toolbar-sl-share ul li.opening {
-  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  border-right: 3px solid rgba(255, 255, 255, 0.2);
 }
 .full-width-header.header-style2 .rs-header {
   z-index: 99;
